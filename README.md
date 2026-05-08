@@ -27,11 +27,19 @@ Cisco Packet Tracer enterprise network project implementing RIP routing, VLANs, 
 * [routing_individual.docx](https://github.com/user-attachments/files/27506378/routing.individual.docx)
 
 
-*## 🎥 Project Demonstration
+## 🎥 Project Demonstration
 
-This video demonstrates the enterprise network routing and switching project developed in Cisco Packet Tracer, including VLAN configuration, RIP routing, DHCP implementation, Inter-VLAN routing, EtherChannel, and ACL security configuration.
+This video demonstrates the enterprise network routing and switching project developed in Cisco Packet Tracer, including:
 
-🔗 [Watch Project Demo](https://youtu.be/7p6FKkCLOLY)
+* RIP routing configuration
+* VLAN setup and Inter-VLAN routing
+* DHCP configuration
+* EtherChannel implementation
+* ACL security configuration
+* Network connectivity testing and troubleshooting
+
+🔗 [Watch Project Demo](https://youtu.be/iyP4_pGKxtA)
+
 
 
 ## 👨‍💻 Author
